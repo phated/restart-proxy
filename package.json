@@ -1,0 +1,10 @@
+{
+  "name": "hotswap-proxy",
+  "version": "0.1.0",
+  "dependencies": {
+    "http-proxy": "~0.8.7"
+  },
+  "scripts": {
+    "start": "supervisor -q index.js"
+  }
+}
