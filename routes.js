@@ -1,8 +1,8 @@
 module.exports = {
-  'hackphx.com': '127.0.0.1:3000',
-  'www.hackphx.com': '127.0.0.1:3000',
-  'hackphx.org': '127.0.0.1:3000',
-  'www.hackphx.org': '127.0.0.1:3000',
-  'dev.hackphx.com': '127.0.0.1:3001',
-  'dev.hackphx.org': '127.0.0.1:3001'
+  'hackphx.com': '127.0.0.1:4000/website',
+  'www.hackphx.com': '127.0.0.1:4000/website',
+  'hackphx.org': '127.0.0.1:4000/website',
+  'www.hackphx.org': '127.0.0.1:4000/website',
+  'dev.hackphx.com': '127.0.0.1:4000/new-website',
+  'dev.hackphx.org': '127.0.0.1:4000/new-website'
 };
